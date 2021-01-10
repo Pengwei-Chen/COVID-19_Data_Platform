@@ -1,0 +1,1 @@
+Start "" "COVID-19 Data Platform\bin\Release\COVID-19 Data Platform.exe"
